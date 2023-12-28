@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alisha</h1>
 <h3 align="center">A passionate coder from India</h3>
-<img align = "right" alt = "Coding" width ="400" src="https://as2.ftcdn.net/v2/jpg/05/90/45/35/1000_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisha027" alt="alisha027" /></a> </p>
 
 - 📫 How to reach me **vashishtalisha02@gmail.com**
